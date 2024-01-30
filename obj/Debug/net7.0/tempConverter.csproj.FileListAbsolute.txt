@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/tempConverter/bin/Debug/net7.0/tempConverter
+/Users/tylerbreithaupt/Desktop/CIT195/tempConverter/bin/Debug/net7.0/tempConverter.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/tempConverter/bin/Debug/net7.0/tempConverter.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/tempConverter/bin/Debug/net7.0/tempConverter.dll
+/Users/tylerbreithaupt/Desktop/CIT195/tempConverter/bin/Debug/net7.0/tempConverter.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/tempConverter/obj/Debug/net7.0/tempConverter.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/tempConverter/obj/Debug/net7.0/tempConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/tempConverter/obj/Debug/net7.0/tempConverter.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/tempConverter/obj/Debug/net7.0/tempConverter.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/tempConverter/obj/Debug/net7.0/tempConverter.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/tempConverter/obj/Debug/net7.0/tempConverter.dll
+/Users/tylerbreithaupt/Desktop/CIT195/tempConverter/obj/Debug/net7.0/refint/tempConverter.dll
+/Users/tylerbreithaupt/Desktop/CIT195/tempConverter/obj/Debug/net7.0/tempConverter.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/tempConverter/obj/Debug/net7.0/tempConverter.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/tempConverter/obj/Debug/net7.0/ref/tempConverter.dll
